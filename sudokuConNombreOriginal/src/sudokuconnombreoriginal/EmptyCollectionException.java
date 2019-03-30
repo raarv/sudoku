@@ -1,4 +1,4 @@
-package proyecto_1_ed;
+package sudokuconnombreoriginal;
 
 public class EmptyCollectionException extends RuntimeException {
     
