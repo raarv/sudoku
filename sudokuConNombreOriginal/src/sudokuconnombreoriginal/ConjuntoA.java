@@ -1,8 +1,6 @@
 package sudokuconnombreoriginal;
 
 import java.util.Iterator;
-import proyecto_1_ed.EmptyCollectionException;
-import proyecto_1_ed.MAG;
 
 public class ConjuntoA <T> implements ConjuntoADT <T> {
     private T[] conjunto;
