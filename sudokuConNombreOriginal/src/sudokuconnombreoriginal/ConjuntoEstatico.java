@@ -1,7 +1,7 @@
-package proyecto_2_ed;
+package sudokuconnombreoriginal;
 
 import java.util.Iterator;
-import proyecto_1_ed.EmptyCollectionException;
+
 
 public class ConjuntoEstatico {
     
